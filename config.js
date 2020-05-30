@@ -23,7 +23,7 @@ module.exports = {
   },
   contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/8d829f9f-76c5-431c-a75b-0aff2b810655',
   googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
-  tags: {
+   tags: {
     javascript: {
       name: 'javascript',
       description: 'JavaScript is an object-oriented programming language used alongside HTML and CSS to give functionality to web pages.',
@@ -54,22 +54,21 @@ module.exports = {
       description: 'A framework built over ReactJS to generate static page web application.  ',
       color: '#6f309f',
     },
-    photos: {
-      name: 'photos',
-      description: 'A tag where I share my favorite photos and their details..',
+    html: {
+      name: 'HTML',
+      description: 'A markup language that powers the web. All websites use HTML for structuring the content.',
       color: '#dd3431',
     },
-    work: {
-      name: 'work',
-      description: 'Here is my selected work and their case studies. Feel free to share and care.',
+    css: {
+      name: 'css',
+      description: 'CSS is used to style the HTML element and to give a very fancy look for the web application.',
       color: '#43ace0',
     },
-    personal: {
-      name: 'personal',
-      description: 'A general personal tag where I share feelings and thoughts.',
+    python: {
+      name: 'python',
+      description: 'A general purpose programming language that is widely used for developing various applications.',
       color: '#f9c646',
     },
 
   },
-};  
-  
+};
