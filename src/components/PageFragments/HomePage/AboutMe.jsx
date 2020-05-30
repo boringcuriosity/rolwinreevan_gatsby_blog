@@ -5,12 +5,12 @@ import { stripTags, domHtml } from '../../../utils/stripTags';
 import SEO from '../../Seo';
 
 const pageText = {
-  paraOne: `Hello !! My name is <b>Mohammed Shaheer Ahmed</b>. I'm a Digital creator who is
+  paraOne: `Hello !! My name is <b>Mohammed</b> <b>Shaheer Ahmed</b>. I'm a Digital creator who is
     passionate about various web technologies. I like to experiment with different web
     technologies. I have experience in creating different types of websites and stuff and mostly without code 😅 and writing blogs about tech stacks
     is what I love to do. Check my blog which I update every week for some work and some 
     cool notes on web technologies.`,
-  paraTwo: `Currently I work mostly on my latest ed-tech startup <b>Unmap</b>. I have already built tons of other projects and will be soon launching few of them.
+  paraTwo: `Currently I work mostly on my latest ed-tech startup <b>Unmasp</b>. I have already built tons of other projects and will be soon launching few of them.
 I'm always a learner and a self taught <b>solopreneur</b>.`,
 };
 const AboutMe = () => {
