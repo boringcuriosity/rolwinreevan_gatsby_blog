@@ -49,7 +49,7 @@ module.exports = {
       description: 'React is an open source JavaScript library used for designing user interfaces.',
       color: '#61dbfa',
     },
-    Work: {
+    work: {
       name: 'Work',
       description: 'This is a tag where I share my professional selected work...  ',
       color: '#6f309f',
@@ -59,7 +59,7 @@ module.exports = {
       description: 'A markup language that powers the web. All websites use HTML for structuring the content.',
       color: '#dd3431',
     },
-    Blog: {
+    blog: {
       name: 'Blog',
       description: 'This is my personal blog where I share my feelings, thoughts etc...',
       color: '#43ace0',
