@@ -1,8 +1,8 @@
 module.exports = {
   pathPrefix: '',
   siteUrl: 'https://rolwinreevan.com',
-  siteTitle: 'Rolwin Reevan',
-  siteDescription: 'Logbook of a software developer',
+  siteTitle: 'Shaheer Ahmed - Digital creator',
+  siteDescription: 'Logbook of a digital creator, Author and founder, Shaheer Ahmed.',
   author: 'Rolwin Reevan',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
@@ -15,13 +15,13 @@ module.exports = {
     tag: 'tags',
   },
   social: {
-    github: 'https://github.com/rolwin100',
+    github: 'https://github.com/boringcuriosity',
     facebook: 'https://www.facebook.com/rolwin.monteiro',
-    twitter: 'https://twitter.com/rolwin100',
-    instagram: 'https://www.instagram.com/reevan100/',
+    twitter: 'https://twitter.com/boringcuriosity',
+    instagram: 'https://www.instagram.com/boringcuriosity/',
     rss: '/rss.xml',
   },
-  contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/09a3066f-c638-40db-ad59-05e4ed71e451',
+  contactFormUrl: process.env.CONTACT_FORM_ENDPOINT || 'https://getform.io/f/8d829f9f-76c5-431c-a75b-0aff2b810655',
   googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
   tags: {
     javascript: {
@@ -49,9 +49,9 @@ module.exports = {
       description: 'React is an open source JavaScript library used for designing user interfaces.',
       color: '#61dbfa',
     },
-    gatsby: {
-      name: 'Gatsby.js',
-      description: 'A framework built over ReactJS to generate static page web application.  ',
+    Work: {
+      name: 'Work',
+      description: 'This is a tag where I share my professional selected work...  ',
       color: '#6f309f',
     },
     html: {
@@ -59,9 +59,9 @@ module.exports = {
       description: 'A markup language that powers the web. All websites use HTML for structuring the content.',
       color: '#dd3431',
     },
-    css: {
-      name: 'css',
-      description: 'CSS is used to style the HTML element and to give a very fancy look for the web application.',
+    Blog: {
+      name: 'Blog',
+      description: 'This is my personal blog where I share my feelings, thoughts etc...',
       color: '#43ace0',
     },
     python: {
