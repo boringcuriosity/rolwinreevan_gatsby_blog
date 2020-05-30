@@ -3,7 +3,7 @@ module.exports = {
   siteUrl: 'https://rolwinreevan.com',
   siteTitle: 'Shaheer Ahmed - Digital creator',
   siteDescription: 'Logbook of a digital creator, Author and founder, Shaheer Ahmed.',
-  author: 'Rolwin Reevan',
+  author: 'Shaheer Ahmed',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
   disqusScript: process.env.DISQUS_SCRIPT || 'https://rolwinreevan.disqus.com/embed.js',
