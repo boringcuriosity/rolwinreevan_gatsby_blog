@@ -54,9 +54,9 @@ module.exports = {
       description: 'A framework built over ReactJS to generate static page web application.  ',
       color: '#6f309f',
     },
-    html: {
-      name: 'HTML',
-      description: 'A markup language that powers the web. All websites use HTML for structuring the content.',
+    photos: {
+      name: 'photos',
+      description: 'A tag where I share my favorite photos and their details..',
       color: '#dd3431',
     },
     work: {
@@ -64,9 +64,9 @@ module.exports = {
       description: 'Here is my selected work and their case studies. Feel free to share and care.',
       color: '#43ace0',
     },
-    python: {
-      name: 'python',
-      description: 'A general purpose programming language that is widely used for developing various applications.',
+    personal: {
+      name: 'personal',
+      description: 'A general personal tag where I share feelings and thoughts.',
       color: '#f9c646',
     },
 
