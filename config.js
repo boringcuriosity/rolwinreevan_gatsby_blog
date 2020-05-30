@@ -59,9 +59,9 @@ module.exports = {
       description: 'A markup language that powers the web. All websites use HTML for structuring the content.',
       color: '#dd3431',
     },
-    css: {
-      name: 'css',
-      description: 'CSS is used to style the HTML element and to give a very fancy look for the web application.',
+    work: {
+      name: 'work',
+      description: 'Here is my selected work and their case studies. Feel free to share and care.',
       color: '#43ace0',
     },
     python: {
