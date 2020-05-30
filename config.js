@@ -49,9 +49,9 @@ module.exports = {
       description: 'React is an open source JavaScript library used for designing user interfaces.',
       color: '#61dbfa',
     },
-    work: {
-      name: 'Work',
-      description: 'This is a tag where I share my professional selected work...  ',
+    gatsby: {
+      name: 'Gatsby.js',
+      description: 'A framework built over ReactJS to generate static page web application.  ',
       color: '#6f309f',
     },
     html: {
@@ -59,9 +59,9 @@ module.exports = {
       description: 'A markup language that powers the web. All websites use HTML for structuring the content.',
       color: '#dd3431',
     },
-    blog: {
-      name: 'Blog',
-      description: 'This is my personal blog where I share my feelings, thoughts etc...',
+    css: {
+      name: 'css',
+      description: 'CSS is used to style the HTML element and to give a very fancy look for the web application.',
       color: '#43ace0',
     },
     python: {
@@ -71,4 +71,5 @@ module.exports = {
     },
 
   },
-};
+};  
+  
