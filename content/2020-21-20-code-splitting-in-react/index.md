@@ -1,6 +1,6 @@
 ---
 title: Code splitting in react with React.lazy() and Suspense
-tags: [ html, css, reactjs ]
+tags: [ html, css, reactjs, hacking ]
 date: 2020-05-21T05:25:44.226Z
 path: blog/code-splitting-in-react
 cover: ./codesplitting.png
