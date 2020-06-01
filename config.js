@@ -25,7 +25,7 @@ module.exports = {
   googleAnalyticTrackingId: process.env.GA_TRACKING_ID || '',
    tags: {
     javascript: {
-      name: 'javascript',
+      name: 'hacking',
       description: 'JavaScript is an object-oriented programming language used alongside HTML and CSS to give functionality to web pages.',
       color: '#f0da50',
     },
